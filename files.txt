@@ -1,0 +1,9 @@
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\EGG-INFO\dependency_links.txt
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\EGG-INFO\not-zip-safe
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\EGG-INFO\PKG-INFO
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\EGG-INFO\SOURCES.txt
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\EGG-INFO\top_level.txt
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\scripts\add.py
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\scripts\__init__.py
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\scripts\__pycache__\add.cpython-310.pyc
+c:\users\madoka\appdata\local\programs\python\python310\lib\site-packages\kaedeaki-0.0.1-py3.10.egg\scripts\__pycache__\__init__.cpython-310.pyc
